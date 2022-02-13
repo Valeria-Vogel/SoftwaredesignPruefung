@@ -1,22 +1,27 @@
-#Welome to the Game ConnectFour
+# Welome to the Game ConnectFour
 
 ## What you need
 
 ### -> Visual Studio Code or a similar enviroment
-###-> Python
+### -> Python
 
 ### First when you open the source code you go to the terminal 'pip install emoji', for a colorful surroundings.
 
-### The next step is to just run the python file
+The next step is to just run the python file
 
 -> Use the Terminal to go through the Game 
+
 When the File is runing you are given 4 options :
-    -> Play Game
-    -> Login 
-    -> Register
-    -> Quit
+    > Play Game
+
+    > Login 
+
+    > Register
+    
+    > Quit
 
 Now you can insert a number:
+
 1 -> You choose to play the Game Connect Four 
     You can play as multiplayer the fist one instert the number of the cole in which he wants his first point
     -> the point falls to the last row
