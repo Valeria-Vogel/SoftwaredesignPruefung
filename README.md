@@ -5,7 +5,7 @@
 ### -> Visual Studio Code or a similar enviroment
 ### -> Python
 
-### First when you open the source code you go to the terminal 'pip install emoji', for a colorful surroundings.
+### First when you open the source code you go to the terminal 'pip install emoji', for colorful surroundings.
 
 The next step is to just run the python file
 
