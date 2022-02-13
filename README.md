@@ -1,4 +1,4 @@
-# Welome to the Game ConnectFour
+# Welcome to the Game ConnectFour
 
 ## What you need
 
@@ -12,12 +12,13 @@ The next step is to just run the python file
 -> Use the Terminal to go through the Game 
 
 When the File is runing you are given 4 options :
+
     > Play Game
 
     > Login 
 
     > Register
-    
+
     > Quit
 
 Now you can insert a number:
