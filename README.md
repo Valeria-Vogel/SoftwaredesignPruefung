@@ -24,13 +24,9 @@ When the File is runing you are given 4 options :
 Now you can insert a number:
 
 1 -> You choose to play the Game Connect Four 
-
     You can play as multiplayer the fist one instert the number of the cole in which he wants his first point
-
     -> the point falls to the last row
-
     Now the nest player does the same 
-
     -> You play until the fist one has 4 in a row (verically, horizontal or diagonal)
 
     -> if you want to change the number of rows and cols you need to go in the source code row 2 & 3 and change it there
@@ -40,9 +36,7 @@ Now you can insert a number:
 2 -> You can Log in with Username and Password, if you registered beforhand
 
 3 -> You can registrate with Username and Password
-
         -> Now you are show 3 more options 
-        
             -> if you use 3 - Quit your back to the beginning and you also can login with or just createt Username and Password
             
 4 -> You can Quit, the Program stops (you lose Username and Password)
