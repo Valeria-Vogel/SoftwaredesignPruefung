@@ -72,12 +72,12 @@ class board():
 
         # Check pieces in a row'
         for i in range(0, 7, 2):
-            if (directions[i][1] + directions[i+1][1] >= 3):  # Change here if you want more or less point to win (to change >= 'number' (example >= 3 --> 4 in a row win, >= 4 --> 5 in a row win))
+            if (directions[i][1] + directions[i+1][1] >= 4):  # Change here if you want more or less point to win (to change >= 'number' (example >= 3 --> 4 in a row win, >= 4 --> 5 in a row win))
                 self.drawBoard()
                 print(f"{lastPoint} is the winner!")
-                list = [f"{lastPoint}"]
-                count = list.numbers()
-                print(count)
+                #list = [f"{lastPoint}"]
+                #count = list.numbers()
+                #print(count)
                 return lastPoint   
 
         # No winner
